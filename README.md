@@ -14,7 +14,7 @@ Showcase of my abilities
 - Some examples of CSS code [https://kmilo0.github.io/css-examples/](https://kmilo0.github.io/css-examples/) Repository: [css-examples](https://github.com/kmilo0/css-examples)
 
 ### Javascript
-- Interactive page to experiment with flexbox positioning [https://flexbox-positioning.netlify.app/](https://flexbox-positioning.netlify.app/) Repository: [flexbox-positioning](https://github.com/kmilo0/flexbox-positioning)
+- Interactive page to experiment with flexbox positioning [https://flexbox-positioning.netlify.app](https://flexbox-positioning.netlify.app) Repository: [flexbox-positioning](https://github.com/kmilo0/flexbox-positioning)
 
 ## Devops
 ### Terraform
