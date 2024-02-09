@@ -4,17 +4,17 @@ Showcase of my abilities
 ## Frontend 
 
 ### Bootstrap
-- Bootstrap demos https://github.com/kmilo0/bootstrap-demos
+- Bootstrap demos https://kmilo0.github.io/bootstrap-demos/ Repo: https://github.com/kmilo0/bootstrap-demos
 
 ### CSS
 #### My implementation of designs created by third parties
-- QR code component https://github.com/kmilo0/qr-code-component
+- QR code component https://kmilo0.github.io/qr-code-component/ Repo: https://github.com/kmilo0/qr-code-component
 
 #### More CSS
-- Some examples of CSS code: https://github.com/kmilo0/css-examples
+- Some examples of CSS code https://kmilo0.github.io/css-examples/ Repo: https://github.com/kmilo0/css-examples
 
 ### Javascript
-- Interactive page to experiment with flexbox positioning https://github.com/kmilo0/flexbox-positioning
+- Interactive page to experiment with flexbox positioning https://flexbox-positioning.netlify.app/ Repo: https://github.com/kmilo0/flexbox-positioning
 
 ## Devops
 ### Terraform
