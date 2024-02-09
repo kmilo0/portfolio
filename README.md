@@ -15,3 +15,10 @@ Showcase of my abilities
 
 ### Javascript
 - Interactive page to experiment with flexbox positioning https://github.com/kmilo0/flexbox-positioning
+
+## Devops
+### Terraform
+- Terraform examples https://github.com/kmilo0/terraform-examples
+
+### Github actions
+- Basic example of Github Actions https://github.com/kmilo0/ga-basic
