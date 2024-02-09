@@ -1,7 +1,7 @@
 # portfolio
 Showcase of my abilities
 
-## frontend 
+## Frontend 
 ### CSS
 #### My implementation of designs created by third parties
 - Bootstrap landing pages
