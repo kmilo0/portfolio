@@ -1,7 +1,14 @@
-# portfolio-frontend
-Showcase of my frontend abilities
+# portfolio
+Showcase of my abilities
 
-- landing pages
-- Interactive page to experiment with flexbox positioning https://github.com/kmilo0/flexbox-positioning
-- My solution to the QR code component challenge from frontendmentor https://github.com/kmilo0/qr-code-component
+## frontend 
+### CSS
+#### My implementation of designs created by third parties
+- Bootstrap landing pages
+- QR code component https://github.com/kmilo0/qr-code-component
+
+#### More CSS
 - Some examples of CSS code: https://github.com/kmilo0/css-examples
+
+### Javascript
+- Interactive page to experiment with flexbox positioning https://github.com/kmilo0/flexbox-positioning
